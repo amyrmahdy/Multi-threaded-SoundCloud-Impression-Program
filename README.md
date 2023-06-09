@@ -75,9 +75,9 @@ Contributions are always welcome! Here are some ways you can contribute to the p
 <br >
 <br >
 
-**Author: amyrmahdy**
+Author: **amyrmahdy**
 
-**Date: 19 April 2022**
+Date: **19 April 2022**
 
 
 
